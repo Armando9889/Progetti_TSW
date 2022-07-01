@@ -5,3 +5,15 @@ vantaggiosi alla nostra clientela e garantendo eventuali tempi di consegna in ma
 Garantisce la registrazione e l’eventuale login ai clienti che vogliono effettuare l’acquisto di un
 qualsiasi veicolo. Il pagamento può essere effettuato in unica soluzione oppure con un
 finanziamento (pagamento alla consegna).
+
+
+Componenti del gruppo:
+
+
+Giuseppe Sabia
+
+
+Armando Imbimbo
+
+
+Michele Del Mastro

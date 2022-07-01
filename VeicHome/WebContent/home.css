@@ -1,0 +1,49 @@
+body {
+	background-color: #c4ffd8;
+	font-family: Arial;
+	font-size: large;
+}
+
+#header {
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	height: 103px;
+}
+
+#header #nav{
+	float: right;
+}
+
+#info mark{
+		background-color:white;
+		color:#0080ff;
+}
+
+#info{
+   position: absolute;
+   font:bold 22px Georgia;
+   padding:10px;       
+   top: 100px;
+   left: 10;
+   width: 100%;
+}
+
+#blocco #moto #m{
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+	font-family: georgia;
+	width:450px;	
+	height:35px;
+}
+
+#blocco #auto #a{
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+	font-family: georgia;
+	width:450px;	
+	height:35px;
+}
+
+#nav1{
+	float: right;
+}

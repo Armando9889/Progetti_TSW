@@ -8,7 +8,7 @@ finanziamento (pagamento alla consegna).
 
 
 Componenti del gruppo:
-
+ 
 
 Giuseppe Sabia
 
